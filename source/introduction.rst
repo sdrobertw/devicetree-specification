@@ -29,13 +29,11 @@ facilitate the development of a wide variety of systems.
 
 .. FIXME cgt - Rephrase the following?
 
-This specification is targeted towards the requirements of embedded
-systems. An embedded system typically consists of system hardware, an
-operating system, and application software that are custom designed to
-perform a fixed, specific set of tasks. This is unlike general purpose
-computers, which are designed to be customized by a user with a variety
-of software and I/O devices. Other characteristics of embedded systems
-may include:
+This specification should help to clarify all embedded system requirements. Typically,
+an embedded system consists of system hardware, an operating system, and custom applications
+software designed to perform a fixed, specific set of tasks. Unlike general purpose computers,
+designed to be customized by a user with a variety of software and I/O devices,
+the embedded system can be characterized as follows:
 
 *  a fixed set of I/O devices, possibly highly customized for the
    application
